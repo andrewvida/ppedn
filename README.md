@@ -1,10 +1,10 @@
 # ppedn
 
-A Clojure library designed to ... well, that part is up to you.
+ppedn reads edn from stdin and pretty prints it to stdout. It's literally < 5 lines of clojure code. YMMV.
 
 ## Usage
 
-FIXME
+I like to lein uberjar this thing up and put it in my ~/bin directory, then make a shell alias that runs it with java -jar. I suppose you could also just use it with 'lein run' all the time. Pick your favourite.
 
 ## License
 
